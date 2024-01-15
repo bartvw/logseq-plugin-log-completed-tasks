@@ -22,8 +22,8 @@
     "logseq-dateutils": "^2.1.1"
   },
   "logseq": {
-    "id": "logseq-log-completed-tasks-2",
+    "id": "logseq-log-completed-tasks",
     "title": "Log Completed Tasks",
-    "main": "dist/index.html"
+    "main": "index.html"
   }
 }
