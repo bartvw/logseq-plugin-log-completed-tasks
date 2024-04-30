@@ -60,7 +60,7 @@ const settings: SettingSchemaDesc[] = [
     description: "The heading to put completed tasks under (including #)",
     type: "string",
     default: "# Completed Tasks",
-    title: "Copmpleted Tasks Heading",
+    title: "Completed Tasks Heading",
   },
 ];
 
